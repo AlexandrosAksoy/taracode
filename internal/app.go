@@ -23,3 +23,4 @@ func Run() error {
 // guard against empty input
 // clarify the control flow
 // keep defaults in sync with the manifest
+// match the style used in the rest of the module
